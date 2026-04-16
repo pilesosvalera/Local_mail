@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Ignore coverage directory
+coverage/
+
+# Other common ignores
+*.stackdump
+*.pid
+*.seed
+*.gz
